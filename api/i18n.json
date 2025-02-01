@@ -1,0 +1,42 @@
+{
+  "greeting": {
+    "isEnabled": false,
+    "translations": {
+      "en": "Hello",
+      "es": "Hola",
+      "fr": "Bonjour"
+    }
+  },
+  "farewell": {
+    "isEnabled": true,
+    "translations": {
+      "en": "Goodbye",
+      "es": "Adiós",
+      "fr": "Au revoir"
+    }
+  },
+  "welcome_message": {
+    "isEnabled": true,
+    "translations": {
+      "en": "Welcome to our application",
+      "es": "Bienvenido a nuestra aplicación",
+      "fr": "Bienvenue dans notre application"
+    }
+  },
+  "button_submit": {
+    "isEnabled": true,
+    "translations": {
+      "en": "Submit",
+      "es": "Enviar",
+      "fr": "Soumettre"
+    }
+  },
+  "button_cancel": {
+    "isEnabled": true,
+    "translations": {
+      "en": "Cancel",
+      "es": "Cancelar",
+      "fr": "Annuler"
+    }
+  }
+}

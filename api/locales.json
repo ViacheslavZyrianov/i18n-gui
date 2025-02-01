@@ -1,0 +1,14 @@
+{
+  "en": {
+    "label": "English",
+    "isEnabled": true
+  },
+  "es": {
+    "label": "Spanish",
+    "isEnabled": true
+  },
+  "fr": {
+    "label": "French",
+    "isEnabled": true
+  }
+}
